@@ -35,3 +35,4 @@ For running this lab with all the needed tooling, there are 3 options available:
 - Install all the tools on your local machine
 
 Full installation guidance and options for running this lab can be found in the [Installation instructions](install.md).
+#test
